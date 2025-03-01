@@ -1,1 +1,1 @@
-# solar-system-main
+Solar system (computer graphics project)
